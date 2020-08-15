@@ -59,6 +59,8 @@ You can follow me on [instagram](https://www.instagram.com/q_link0_p/)
 ### I'm sociable animal 🐝
 I like hangin' 'round like minded people. Unfourtunately COVID wasn't great in that regard 😷. I need cooperation like air. Just put me in team environment to let me be happy.
 
+I play somewhat often 🎮. Hit me up if you are up to play something!
+
 Also I like snowboarding 🏂, but I has been a real while since I stepped onto the board
 
 ### How to reach me? 📞
