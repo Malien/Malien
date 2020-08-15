@@ -16,12 +16,26 @@ src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/1-nati
 
 Quite a nice city, housing the greatest IT university in all of Ukraine - National University of Kyiv-Mohyla Academy.
 
+### What's on my mind right now? 🧠
+I want to help out a friend to make his pet-project, meanwhile learning rust and gaining experience in back-end stuff.
+Want to make some personal rig upgrades (I really need a new desk).
+Would love to participate in some open source project. (_dunno how and when to start_)
+Looking forward to writing some iOS apps.
+
+### My TODO list 📝
+- [X] Finish reading "Programming in Haskell"
+- [X] Write something in Rust
+- [ ] Play with SwiftUI
+- [ ] Start a new academic year at uni
+- [ ] ???
+- [ ] Do something meaningful
+
 ### Ama back-end engineer ⌨️
 I do some amount of server stuff. Working with API techologies like <img height="18" src="assets/graphql.svg" />, <img height="18" src="assets/grpc.png" />. Used <img height="18" src="assets/openapi.svg" /> for providing specification of REST APIs. Proefficient with tools like <img height="18" src="assets/docker.svg" />, familiar with <img height="18" src="assets/kubernetes.svg" />. Set up CI/CD using <img height="18" src="assets/ghactions.svg" />.
 
 Written applications with <img height="18" src="assets/nodejs.svg" /> (using <img height="18" src="assets/typescript.svg" />), <img height="18" src="assets/rust.svg" />, and <img height="18" src="assets/kotlin.svg" />
 
-Have been working with <img height="18" src="assets/postgres.svg" /> on multiple occasions.
+Have been working with <img height="18" src="assets/postgresql.svg" /> and <img height="18" src="assets/mongodb.svg" /> on multiple occasions.
 
 Deployed services on <img height="18" src="assets/aws.svg" /> and <img height="18" src="assets/gcp.svg" />, using services like EC2, S3, RDS, SNS and Lambda (or GCP alternatives).
 
@@ -47,21 +61,8 @@ I like hangin' 'round like minded people. Unfourtunately COVID wasn't great in t
 
 Also I like snowboarding 🏂, but I has been a real while since I stepped onto the board
 
-### What's on my mind right now? 🧠
-I want to help out a friend to make his pet-project, meanwhile learning rust and gaining experience in back-end stuff.
-Want to make some personal rig upgrades (I really need a new desk).
-Looking forward to writing some iOS apps.
-
-### My TODO list 📝
-- [X] Finish reading "Programming in Haskell"
-- [X] Write something in Rust
-- [ ] Play with SwiftUI
-- [ ] Start a new academic year at uni
-- [ ] ???
-- [ ] Do something meaningful
-
 ### How to reach me? 📞
-Hit me up on discord at Link0#9901, checkout my [instagram](https://www.instagram.com/q_link0_p/).
+Hit me up on discord at Link0#9901, checkout my [instagram](https://www.instagram.com/q_link0_p/). Or just [email me](mailto:q.link0.p@gmail.com)
 
 ### Bit of stats 📊
 They are not that representative, as I use GitHub organisations to namespace projects of me and my friends. So techincally I do not contribute to my own projects. Nevertheless checkout [motum](https://github.com/MotumInc) and [ne-student](https://github.com/Ne-Student) organisations, they contain a heafty bit of my work.
