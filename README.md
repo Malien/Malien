@@ -29,7 +29,7 @@ I've been writing web applications using <img height="18" src="assets/react.svg"
 ### I'm a low-level geek 🤓
 I really enjoy getting into the nitty-gritty of things, diving deep down into specifics. I dunno, computer sience is astonishing sometimes. Thats why I enjoy writing <img height="18" src="assets/cpp.svg" />, and now <img height="18" src="assets/rust.svg" />. Diving into low-level stuff, composing zero-level abstractions in an efficient way using compile-time constructs: yeah, that's my jam. _Sometimes though, I can get frustrated by rarely-encountered segfaults or data-races, but C++'s newer abstractions and rust in the whole have been lately kind to me in that regard_
 
-This CS amusement also drives me to learn new concepts. Like diving deeper into the pure functional world of <img height="18" src="assets/haskell.svg" />, like I've been doing lately. Also, I'm looking forward to learning logical paradigm of <img height="18" src="assets/prolog.svg" /> as a part of my university curriculum.
+This CS amusement also drives me to learn new concepts. Like diving deeper into the pure functional world of <img height="18" src="assets/haskell.svg" />, like I've been doing lately. Also, I'm looking forward to learning logical paradigm of Prolog as a part of my university curriculum.
 
 ### Ama artistic boi 📸
 [<img height="150px" align="left" alt="Instagram profile pic" src="https://i.imgur.com/g0kPFkq.png">](https://www.instagram.com/q_link0_p/)
