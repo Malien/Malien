@@ -7,11 +7,11 @@ I wonder the same thing. I mostly write code (usuprisingly), yet that is not the
 
 I live and study in Kyiv, Ukraine. 
 
-<img alt="Kyiv city" height="230px"
+<img alt="Kyiv city" height="200px"
 src="https://lh3.googleusercontent.com/proxy/01i6j1cBs8cHCwDeAfrcQo2HkCLPXcA_eQwwzsxoSHxqfDfxbgITfQMdHNMGIHnOYhIzNweKdT7x5WsvAXSDB7Jl8lehUYvKcs2Rih0aPHhySikndw">
-<img alt="Kyiv city" height="230px"
+<img alt="Kyiv city" height="200px"
 src="https://images.unian.net/photos/2019_04/1555060857-5904.png?0.7201533713226083">
-<img alt="Kyiv city" height="230px"
+<img alt="Kyiv city" height="200px"
 src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/1-national-university-of-kyiv-mohyla-academy-alain-de-maximy.jpg">
 
 Quite a nice city, housing the greatest IT university in all of Ukraine - National University of Kyiv-Mohyla Academy.
