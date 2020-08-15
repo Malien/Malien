@@ -17,9 +17,11 @@ src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/1-nati
 Quite a nice city, housing the greatest IT university in all of Ukraine - National University of Kyiv-Mohyla Academy.
 
 ### Ama back-end engineer ⌨️
-I do some amount of server stuff. Working with API techologies like <img height="18" src="assets/graphql.svg" />, <img height="18" src="assets/grpc.png" />, and <img height="18" src="assets/openapi.svg" /> for providing specification of REST APIs. Proefficient with tools like <img height="18" src="assets/docker.svg" />, familiar with <img height="18" src="assets/kubernetes.svg" />. Set up CI/CD using <img height="18" src="assets/ghactions.svg" />.
+I do some amount of server stuff. Working with API techologies like <img height="18" src="assets/graphql.svg" />, <img height="18" src="assets/grpc.png" />. Used <img height="18" src="assets/openapi.svg" /> for providing specification of REST APIs. Proefficient with tools like <img height="18" src="assets/docker.svg" />, familiar with <img height="18" src="assets/kubernetes.svg" />. Set up CI/CD using <img height="18" src="assets/ghactions.svg" />.
 
-Written applications with <img height="18" src="assets/nodejs.svg" /> using <img height="18" src="assets/typescript.svg" />, <img height="18" src="assets/rust.svg" />, and <img height="18" src="assets/kotlin.svg" />
+Written applications with <img height="18" src="assets/nodejs.svg" /> (using <img height="18" src="assets/typescript.svg" />), <img height="18" src="assets/rust.svg" />, and <img height="18" src="assets/kotlin.svg" />
+
+Have been working with <img height="18" src="assets/postgres.svg" /> on multiple occasions.
 
 Deployed services on <img height="18" src="assets/aws.svg" /> and <img height="18" src="assets/gcp.svg" />, using services like EC2, S3, RDS, SNS and Lambda (or GCP alternatives).
 
