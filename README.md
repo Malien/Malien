@@ -55,6 +55,7 @@ I really like expressing my creativity through visual media. Be it photos, or fi
 You can follow me on [instagram](https://www.instagram.com/q_link0_p/)
 
 (_Yes, that's the profile pic_)
+<br></br>
 
 ### I'm sociable animal 🐝
 I like hangin' 'round like minded people. Unfourtunately COVID wasn't great in that regard 😷. I need cooperation like air. Just put me in team environment to let me be happy.
