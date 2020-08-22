@@ -19,7 +19,7 @@ Quite a nice city, housing the greatest IT university in all of Ukraine - Nation
 ### What's on my mind right now? 🧠
 I want to help out a friend to make his pet-project, meanwhile learning rust and gaining experience in back-end stuff.
 Want to make some personal rig upgrades (I really need a new desk).
-Would love to participate in some open source project. (_dunno how and when to start_)
+Would love to participate in some open source project. (_dunno how and where to start_)
 Looking forward to writing some iOS apps.
 
 ### My TODO list 📝
@@ -35,7 +35,7 @@ I do some amount of server stuff. Working with API techologies like <img height=
 
 Written applications with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/nodejs.svg" /> (using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/typescript.svg" />), <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/rust.svg" />, and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/kotlin.svg" />
 
-Have been working with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/postgresql.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/mongodb.svg" /> on multiple occasions.
+<!-- Have been working with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/postgresql.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/mongodb.svg" /> on multiple occasions. -->
 
 Deployed services on <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/aws.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/gcp.svg" />, using services like EC2, S3, RDS, SNS and Lambda (or GCP alternatives).
 
