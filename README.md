@@ -11,8 +11,8 @@ I live and study in Kyiv, Ukraine.
 src="https://github.com/Malien/Malien/blob/master/assets/kyiv1.jpg">
 <img alt="Kyiv city" height="200px"
 src="https://github.com/Malien/Malien/blob/master/assets/kyiv2.png">
-<img alt="Kyiv city" height="200px"
-src="https://github.com/Malien/Malien/blob/master/assets/naukma">
+<img alt="National University of Kyiv-Mohyla Academy" height="200px"
+src="https://github.com/Malien/Malien/blob/master/assets/naukma.jpg">
 
 Quite a nice city, housing the greatest IT university in all of Ukraine - National University of Kyiv-Mohyla Academy.
 
