@@ -68,7 +68,7 @@ Also I like snowboarding 🏂, but I has been a real while since I stepped onto 
 Hit me up on discord at Link0#9901, checkout my [instagram](https://www.instagram.com/q_link0_p/). Or just [email me](mailto:q.link0.p@gmail.com)
 
 ### Bit of stats 📊
-They are not that representative, as I use GitHub organisations to namespace projects of me and my friends. So techincally I do not contribute to my own projects. Nevertheless checkout [motum](https://github.com/MotumInc) and [ne-student](https://github.com/Ne-Student) organisations, they contain a heafty bit of my work.
+They are not that representative, as I use GitHub organisations to namespace projects of me and my friends. So techincally I do not contribute to my own projects. Nevertheless checkout [motum](https://github.com/MotumInc) and [studa](https://github.com/studaco) organisations, they contain a heafty bit of my work.
 
 [![Malien's github stats](https://github-readme-stats.vercel.app/api?username=malien&count_private=true&show_icons=true&hide=stars&theme=buefy&bg_color=145,ffffff,f4ddff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malien&hide=JavaScript&layout=compact&bg_color=145,ffffff,87ecd3)](https://github.com/anuraghazra/github-readme-stats)
