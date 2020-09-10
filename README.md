@@ -30,7 +30,12 @@ Looking forward to writing some iOS apps.
 - [ ] ???
 - [ ] Do something meaningful
 
-### Ama back-end engineer ⌨️
+### I'm a low-level geek 🤓
+I really enjoy getting into the nitty-gritty of things, diving deep down into specifics. I dunno, computer sience is astonishing sometimes. Thats why I enjoy writing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/cpp.svg" />, and now <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/rust.svg" />. Diving into low-level stuff, composing zero-level abstractions in an efficient way using compile-time constructs: yeah, that's my jam. _Sometimes though, I can get frustrated by rarely-encountered segfaults or data-races, but C++'s newer abstractions and rust in the whole have been lately kind to me in that regard_
+
+This CS amusement also drives me to learn new concepts. Like diving deeper into the pure functional world of <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/haskell.svg" />, like I've been doing lately. Also, I'm looking forward to learning logical paradigm of Prolog as a part of my university curriculum.
+
+### I do some back-end work ⌨️
 I do some amount of server stuff. Working with API techologies like <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/graphql.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/grpc.png" />. Used <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/openapi.svg" /> for providing specification of REST APIs. Proefficient with tools like <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/docker.svg" />, familiar with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/kubernetes.svg" />. Set up CI/CD using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/ghactions.svg" />.
 
 Written applications with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/nodejs.svg" /> (using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/typescript.svg" />), <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/rust.svg" />, and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/kotlin.svg" />
@@ -39,13 +44,8 @@ Written applications with <img height="18" src="https://github.com/Malien/Malien
 
 Deployed services on <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/aws.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/gcp.svg" />, using services like EC2, S3, RDS, SNS and Lambda (or GCP alternatives).
 
-### Ama front-end engineer 🖥
+### I do some front-end work 🖥
 I've been writing web applications using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/react.svg" /> for a long while now, and simpler applications using plaing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/html.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" /> for even longer. Yet nowadays I prefer using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/typescript.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/sass.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" />, and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/yarn.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/npm.svg" />. For the years being I've grown quite fond of Reacts simplicity and flexibility.
-
-### I'm a low-level geek 🤓
-I really enjoy getting into the nitty-gritty of things, diving deep down into specifics. I dunno, computer sience is astonishing sometimes. Thats why I enjoy writing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/cpp.svg" />, and now <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/rust.svg" />. Diving into low-level stuff, composing zero-level abstractions in an efficient way using compile-time constructs: yeah, that's my jam. _Sometimes though, I can get frustrated by rarely-encountered segfaults or data-races, but C++'s newer abstractions and rust in the whole have been lately kind to me in that regard_
-
-This CS amusement also drives me to learn new concepts. Like diving deeper into the pure functional world of <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/haskell.svg" />, like I've been doing lately. Also, I'm looking forward to learning logical paradigm of Prolog as a part of my university curriculum.
 
 ### Ama artistic boi 📸
 [<img height="150px" align="left" alt="Instagram profile pic" src="https://i.imgur.com/g0kPFkq.png">](https://www.instagram.com/q_link0_p/)
@@ -73,6 +73,9 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's github stats](https://github-readme-stats.vercel.app/api?username=malien&count_private=true&show_icons=true&hide=stars&theme=buefy&bg_color=145,ffffff,f4ddff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malien&hide=JavaScript&layout=compact&bg_color=145,ffffff,87ecd3)](https://github.com/anuraghazra/github-readme-stats)
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Malien/Malien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
