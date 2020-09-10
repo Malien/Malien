@@ -3,6 +3,8 @@ name: Waka Readme
 on:
   schedule:
     - cron: '00 00 * * *'
+  workflow_dispatch:
+    description: Manually trigger readme update
 
 jobs:
   update-readme:
