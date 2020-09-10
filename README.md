@@ -47,7 +47,7 @@ Deployed services on <img height="18" src="https://github.com/Malien/Malien/blob
 ### I do some front-end work 🖥
 I've been writing web applications using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/react.svg" /> for a long while now, and simpler applications using plaing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/html.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" /> for even longer. Yet nowadays I prefer using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/typescript.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/sass.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" />, and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/yarn.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/npm.svg" />. For the years being I've grown quite fond of Reacts simplicity and flexibility.
 
-### Ama artistic boi 📸
+### Ama an artistic boi 📸
 [<img height="150px" align="left" alt="Instagram profile pic" src="https://i.imgur.com/g0kPFkq.png">](https://www.instagram.com/q_link0_p/)
 
 I really like expressing my creativity through visual media. Be it photos, or films (films to a much lesser extent nowadays). 
