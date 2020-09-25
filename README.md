@@ -71,7 +71,7 @@ Hit me up on discord at Link0#9901, checkout my [instagram](https://www.instagra
 They are not that representative, as I use GitHub organisations to namespace projects of me and my friends. So techincally I do not contribute to my own projects. Nevertheless checkout [motum](https://github.com/MotumInc) and [studa](https://github.com/studaco) organisations, they contain a heafty bit of my work.
 
 [![Malien's github stats](https://github-readme-stats.vercel.app/api?username=malien&count_private=true&show_icons=true&hide=stars&theme=buefy&bg_color=145,ffffff,f4ddff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malien&layout=compact&bg_color=145,ffffff,87ecd3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malien&hide=JavaScript&layout=compact&bg_color=145,ffffff,87ecd3)](https://github.com/anuraghazra/github-readme-stats)
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
