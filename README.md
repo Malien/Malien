@@ -25,8 +25,8 @@ Looking forward to writing some iOS apps.
 ### My TODO list 📝
 - [X] Finish reading "Programming in Haskell"
 - [X] Write something in Rust
+- [X] Start a new academic year at uni
 - [ ] Play with SwiftUI
-- [ ] Start a new academic year at uni
 - [ ] ???
 - [ ] Do something meaningful
 
