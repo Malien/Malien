@@ -35,7 +35,7 @@ I really enjoy getting into the nitty-gritty of things, diving deep down into sp
 
 This CS amusement also drives me to learn new concepts. Like diving deeper into the pure functional world of <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/haskell.svg" />, like I've been doing lately. Also, I'm looking forward to learning logical paradigm of Prolog as a part of my university curriculum.
 
-### I do some back-end work ⌨️
+### I do some back-end stuff ⌨️
 I do some amount of server stuff. Working with API techologies like <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/graphql.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/grpc.png" />. Used <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/openapi.svg" /> for providing specification of REST APIs. Proefficient with tools like <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/docker.svg" />, familiar with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/kubernetes.svg" />. Set up CI/CD using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/ghactions.svg" />.
 
 Written applications with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/nodejs.svg" /> (using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/typescript.svg" />), <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/rust.svg" />, and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/kotlin.svg" />
@@ -44,7 +44,7 @@ Written applications with <img height="18" src="https://github.com/Malien/Malien
 
 Deployed services on <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/aws.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/gcp.svg" />, using services like EC2, S3, RDS, SNS and Lambda (or GCP alternatives).
 
-### I do some front-end work 🖥
+### I do some front-end stuff 🖥
 I've been writing web applications using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/react.svg" /> for a long while now, and simpler applications using plaing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/html.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" /> for even longer. Yet nowadays I prefer using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/typescript.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/sass.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" />, and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/yarn.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/npm.svg" />. For the years being I've grown quite fond of Reacts simplicity and flexibility.
 
 ### Ama an artistic boi 📸
@@ -57,7 +57,7 @@ You can follow me on [instagram](https://www.instagram.com/q_link0_p/)
 (_Yes, that's the profile pic_)
 <br></br>
 
-### I'm sociable animal 🐝
+### I'm a sociable animal 🐝
 I like hangin' 'round like minded people. Unfourtunately COVID wasn't great in that regard 😷. I need cooperation like air. Just put me in team environment to let me be happy.
 
 I play somewhat often 🎮. Hit me up if you are up to play something!
