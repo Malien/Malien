@@ -82,7 +82,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 🏆 1,025 Contributions in the Year 2020
  > 
-> 📦 405.4 kB Used in Github's Storage 
+> 📦 405.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
