@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 **🐱 My Github Data** 
 
-> 🏆 35 Contributions in the Year 2021
+> 🏆 36 Contributions in the Year 2021
  > 
 > 📦 406.3 kB Used in Github's Storage 
  > 
