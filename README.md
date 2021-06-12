@@ -82,7 +82,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 🏆 319 Contributions in the Year 2021
  > 
-> 📦 426.6 kB Used in Github's Storage 
+> 📦 426.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,7 +138,7 @@ Mac                      10 hrs 43 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2021
+ Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
 
 <!--
