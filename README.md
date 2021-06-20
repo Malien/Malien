@@ -139,7 +139,7 @@ Mac                      15 hrs 1 min        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/06/2021
+ Last Updated on 20/06/2021
 <!--END_SECTION:waka-->
 
 <!--
