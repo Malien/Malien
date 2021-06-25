@@ -19,15 +19,17 @@ Quite a nice city, housing the greatest IT university in all of Ukraine - Nation
 ### What's on my mind right now? 🧠
 I want to help out a friend to make his pet-project, meanwhile learning rust and gaining experience in back-end stuff.
 Want to make some personal rig upgrades (I really need a new desk).
-Would love to participate in some open source project. (_dunno how and where to start_)
+Would love to participate in some open source projects. (_dunno how and where to start_)
 Looking forward to writing some iOS apps.
 
 ### My TODO list 📝
 - [X] Finish reading "Programming in Haskell"
 - [X] Write something in Rust
 - [X] Start a new academic year at uni
-- [ ] Pick a coursework
-- [ ] Play with SwiftUI
+- [X] Pick a coursework
+- [X] Play with SwiftUI
+- [X] Finish a coursework
+- [ ] Write Lua JIT compiler
 - [ ] ???
 - [ ] Do something meaningful
 
