@@ -78,13 +78,13 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 323 Contributions in the Year 2021
  > 
-> 📦 426.8 kB Used in Github's Storage 
+> 📦 426.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,17 +121,18 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-TypeScript               6 hrs 46 mins       ████████████████░░░░░░░░░   64.74% 
-SCSS                     3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.6% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
-C++                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
-Rust                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+TypeScript               9 hrs 33 mins       ████████████████░░░░░░░░░   64.08% 
+SCSS                     3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72% 
+Kotlin                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
+Java                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 43 mins      ███████████████████████░░   92.01% 
+Vim                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.99%
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.0%
+Mac                      14 hrs 55 mins      █████████████████████████   100.0%
 
 ```
 
@@ -140,7 +141,7 @@ Mac                      10 hrs 27 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
 <!--
