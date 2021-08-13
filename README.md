@@ -78,13 +78,13 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 370 Contributions in the Year 2021
  > 
-> 📦 427.3 kB Used in Github's Storage 
+> 📦 427.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,17 +121,17 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-TypeScript               6 hrs 19 mins       ██████████████░░░░░░░░░░░   56.77% 
-SCSS                     4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   38.43% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+TypeScript               6 hrs 10 mins       █████████████░░░░░░░░░░░░   52.66% 
+SCSS                     5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.23% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 🔥 Editors: 
-VS Code                  11 hrs 8 mins       █████████████████████████   100.0%
+VS Code                  11 hrs 42 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 8 mins       █████████████████████████   100.0%
+Mac                      11 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
@@ -140,7 +140,7 @@ Mac                      11 hrs 8 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
 
 <!--
