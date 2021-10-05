@@ -14,13 +14,13 @@ src="https://github.com/Malien/Malien/blob/master/assets/kyiv2.png">
 <img alt="National University of Kyiv-Mohyla Academy" height="200px"
 src="https://github.com/Malien/Malien/blob/master/assets/naukma.jpg">
 
-Quite a nice city, housing the greatest IT university in all of Ukraine - National University of Kyiv-Mohyla Academy.
+Quite a nice city, housing one of the greatest IT university in Ukraine - National University of Kyiv-Mohyla Academy.
 
 ### What's on my mind right now? 🧠
-I want to help out a friend to make his pet-project, meanwhile learning rust and gaining experience in back-end stuff.
+Finishing my last uni course will be challanging. _I miss hanging out with students due to COVID_
+Hope I can allocate a bit of time for Lua JIT that I am working on.
 Want to make some personal rig upgrades (I really need a new desk).
 Would love to participate in some open source projects. (_dunno how and where to start_)
-Looking forward to writing some iOS apps.
 
 ### My TODO list 📝
 - [X] Finish reading "Programming in Haskell"
@@ -36,7 +36,7 @@ Looking forward to writing some iOS apps.
 ### I'm a low-level geek 🤓
 I really enjoy getting into the nitty-gritty of things, diving deep down into specifics. I dunno, computer sience is astonishing sometimes. Thats why I enjoy writing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/cpp.svg" />, and now <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/rust.svg" />. Diving into low-level stuff, composing zero-level abstractions in an efficient way using compile-time constructs: yeah, that's my jam. _Sometimes though, I can get frustrated by rarely-encountered segfaults or data-races, but C++'s newer abstractions and rust in the whole have been lately kind to me in that regard_
 
-This CS amusement also drives me to learn new concepts. I enjoy diving deeper into the pure functional world of <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/haskell.svg" />, like I've been doing lately. Also, I'm looking forward to learning logical paradigm of Prolog as a part of my university curriculum.
+This CS amusement also drives me to learn new concepts. I enjoy diving deeper into the pure functional world of <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/haskell.svg" />, like I've been doing lately. Next item on my quest to learn more about CS, would be to look at theorem provers in a greater detail. I strive to widen my worldview; questioning stale practices untill I can get to the bottom of things.
 
 ### I do some back-end stuff ⌨️
 I do some amount of server stuff. Working with API techologies like <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/graphql.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/grpc.png" />. Used <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/openapi.svg" /> for providing specification of REST APIs. Proefficient with tools like <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/docker.svg" />, familiar with <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/kubernetes.svg" />. Set up CI/CD using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/ghactions.svg" />.
@@ -48,7 +48,9 @@ Written applications with <img height="18" src="https://github.com/Malien/Malien
 Deployed services on <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/aws.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/gcp.svg" />, using services like EC2, S3, RDS, SNS and Lambda (or GCP equivalents).
 
 ### I do some front-end stuff 🖥
-I've been writing web applications using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/react.svg" /> for a long while now, and simpler applications using plaing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/html.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" /> for even longer. Yet nowadays I prefer using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/typescript.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/sass.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" />, and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/yarn.svg" /> over <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/npm.svg" />. For the years being I've grown quite fond of Reacts simplicity and flexibility.
+I've been writing web applications using <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/react.svg" /> for a long while now, and simpler applications using plaing <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/html.svg" />, <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/javascript.svg" /> and <img height="18" src="https://github.com/Malien/Malien/blob/master/assets/css.svg" /> for even longer. For the years being I've grown quite fond of Reacts simplicity and flexibility.
+
+I'm now looking more into what new capabilities web platfrom can provide. I've been dabling in perfomance oprimisations. Playing a lot with WebAssembly. Striving to utilize web workers.
 
 ### Ama an artistic boi 📸
 [<img height="150px" align="left" alt="Instagram profile pic" src="https://i.imgur.com/g0kPFkq.png">](https://www.instagram.com/q_link0_p/)
