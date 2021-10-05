@@ -17,7 +17,7 @@ src="https://github.com/Malien/Malien/blob/master/assets/naukma.jpg">
 Quite a nice city, housing one of the greatest IT university in Ukraine - National University of Kyiv-Mohyla Academy.
 
 ### What's on my mind right now? 🧠
-Finishing my last uni course will be challanging. _I miss hanging out with students due to COVID_
+Finishing my last uni course will be challanging. _I miss hanging out with students due to COVID_.
 Hope I can allocate a bit of time for Lua JIT that I am working on.
 Want to make some personal rig upgrades (I really need a new desk).
 Would love to participate in some open source projects. (_dunno how and where to start_)
