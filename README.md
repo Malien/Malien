@@ -28,7 +28,7 @@ Would love to participate in some open source projects. (_dunno how and where to
 - [X] Start a new academic year at uni
 - [X] Pick a coursework
 - [X] Play with SwiftUI
-- [X] Finish a coursework
+- [X] Finish coursework
 - [ ] Write Lua JIT compiler
 - [ ] ???
 - [ ] Do something meaningful
