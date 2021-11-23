@@ -80,11 +80,11 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 613 Contributions in the Year 2021
+> 🏆 640 Contributions in the Year 2021
  > 
 > 📦 427.0 kB Used in GitHub's Storage 
  > 
@@ -94,23 +94,23 @@ They are not that representative, as I use GitHub organisations to namespace pro
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-🌆 Daytime    200 commits    █████████░░░░░░░░░░░░░░░░   39.45% 
-🌃 Evening    218 commits    ██████████░░░░░░░░░░░░░░░   43.0% 
+🌞 Morning    56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
+🌆 Daytime    215 commits    ██████████░░░░░░░░░░░░░░░   42.41% 
+🌃 Evening    198 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
 🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Tuesday      80 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
-Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-Friday       49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Monday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
+Tuesday      85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
+Wednesday    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Thursday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
+Friday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
 Saturday     115 commits    █████░░░░░░░░░░░░░░░░░░░░   22.68% 
 Sunday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47%
 
@@ -144,7 +144,7 @@ Mac                      16 hrs 9 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
 <!--
