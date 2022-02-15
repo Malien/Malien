@@ -80,13 +80,13 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 51 Contributions in the Year 2022
+> 🏆 52 Contributions in the Year 2022
  > 
-> 📦 427.2 kB Used in GitHub's Storage 
+> 📦 427.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,18 +123,18 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-TypeScript               8 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.54% 
-Rust                     4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51% 
-Python                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-Ruby                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
-Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
+Rust                     4 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   34.32% 
+TypeScript               4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   31.08% 
+Ruby                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
+Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
 
 🔥 Editors: 
-VS Code                  18 hrs 10 mins      ██████████████████████░░░   90.39% 
-Vim                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.61%
+VS Code                  12 hrs 47 mins      ██████████████████████░░░   89.07% 
+Vim                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.93%
 
 💻 Operating System: 
-Mac                      20 hrs 5 mins       █████████████████████████   100.0%
+Mac                      14 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +143,7 @@ Mac                      20 hrs 5 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/02/2022 01:03:25 UTC
+ Last Updated on 15/02/2022 01:05:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
