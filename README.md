@@ -82,7 +82,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -133,7 +133,8 @@ Lua                      21 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  14 hrs 12 mins      ███████████████████████░░   92.69% 
-Neovim                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.31%
+Neovim                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.31% 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Mac                      15 hrs 20 mins      █████████████████████████   100.0%
@@ -145,7 +146,7 @@ Mac                      15 hrs 20 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/06/2022 01:47:45 UTC
+ Last Updated on 27/06/2022 01:49:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
