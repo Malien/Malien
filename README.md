@@ -80,13 +80,13 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C784%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 340 Contributions in the Year 2022
+> 🏆 346 Contributions in the Year 2022
  > 
 > 📦 428.3 kB Used in GitHub's Storage 
  > 
@@ -101,7 +101,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 ![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 02:08:54 UTC
+ Last Updated on 16/09/2022 02:14:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
