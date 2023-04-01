@@ -80,28 +80,68 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C784%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C111%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 346 Contributions in the Year 2022
+> 📦 625.4 kB Used in GitHub's Storage 
  > 
-> 📦 428.3 kB Used in GitHub's Storage 
+> 🏆 118 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 11 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                871 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+🌆 Daytime                5750 commits        ███████████░░░░░░░░░░░░░░   42.99 % 
+🌃 Evening                5368 commits        ██████████░░░░░░░░░░░░░░░   40.14 % 
+🌙 Night                  1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Tuesday                  2355 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                2111 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Thursday                 2119 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Friday                   1784 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Saturday                 1896 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Sunday                   1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+Rust                     4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.45 % 
+TypeScript               3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
+Python                   2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+SCSS                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Git                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+
+🔥 Editors: 
+Neovim                   12 hrs 6 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Malien/Malien/master/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/Malien/Malien/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2022 02:14:44 UTC
+ Last Updated on 01/04/2023 01:12:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
