@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C266%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C266%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,18 +123,18 @@ Sunday                   1395 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Elixir                   4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.54 % 
-TypeScript               2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Swift                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
+Elixir                   4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.20 % 
+Swift                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Git                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Haskell                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 45 mins       █████████████████████░░░░   84.31 % 
-VS Code                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Neovim                   9 hrs 50 mins       ██████████████████████░░░   86.80 % 
+VS Code                  1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 
 💻 Operating System: 
-Mac                      10 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -142,7 +142,7 @@ Mac                      10 hrs 22 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Malien/Malien/master/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2023 01:22:45 UTC
+ Last Updated on 07/06/2023 01:24:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
