@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C279%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,18 +123,18 @@ Sunday                   1397 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               8 hrs 47 mins       █████████████████░░░░░░░░   66.92 % 
-TeX                      2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-SCSS                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Elixir                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Git                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TypeScript               8 hrs 47 mins       ████████████████░░░░░░░░░   64.92 % 
+TeX                      2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+SCSS                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Elixir                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Git                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 7 mins       █████████████████████████   99.93 % 
+Neovim                   13 hrs 32 mins      █████████████████████████   99.93 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      13 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -142,7 +142,7 @@ Mac                      13 hrs 8 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Malien/Malien/master/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2023 01:17:36 UTC
+ Last Updated on 11/06/2023 01:29:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
