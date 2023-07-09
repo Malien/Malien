@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C319%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C323%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,17 +123,17 @@ Sunday                   1488 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               14 hrs 23 mins      ██████████████████████░░░   86.01 % 
-CSS                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-SCSS                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TypeScript               14 hrs 23 mins      ██████████████████████░░░   86.70 % 
+CSS                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+SCSS                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 44 mins      █████████████████████████   100.00 % 
+Neovim                   16 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -141,7 +141,7 @@ Mac                      16 hrs 44 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Malien/Malien/master/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2023 01:27:55 UTC
+ Last Updated on 09/07/2023 01:42:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
