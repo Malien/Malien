@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C389%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 626.7 kB Used in GitHub's Storage 
  > 
-> 🏆 311 Contributions in the Year 2023
+> 🏆 313 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,8 +100,8 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 ```text
 🌞 Morning                851 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-🌆 Daytime                5420 commits        ███████████░░░░░░░░░░░░░░   42.85 % 
-🌃 Evening                5039 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 
+🌆 Daytime                5422 commits        ███████████░░░░░░░░░░░░░░   42.86 % 
+🌃 Evening                5039 commits        ██████████░░░░░░░░░░░░░░░   39.83 % 
 🌙 Night                  1338 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -109,7 +109,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 ```text
 Monday                   1627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 Tuesday                  2284 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Wednesday                1966 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Wednesday                1968 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 Thursday                 1985 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 Friday                   1671 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 Saturday                 1808 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
@@ -123,17 +123,17 @@ Sunday                   1307 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               7 hrs 3 mins        ███████████████████░░░░░░   76.19 % 
-Rust                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-SCSS                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-gitignore                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-ActionScript 3           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               7 hrs 41 mins       █████████████████████░░░░   82.30 % 
+Rust                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+ActionScript 3           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Lua                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 15 mins       █████████████████████████   100.00 % 
+Neovim                   9 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -141,7 +141,7 @@ Mac                      9 hrs 15 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Malien/Malien/master/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2023 00:58:33 UTC
+ Last Updated on 24/08/2023 00:59:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
