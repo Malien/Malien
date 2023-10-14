@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C445%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,17 +123,17 @@ Sunday                   1308 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-JavaScript               1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
-TypeScript               1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-C++                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TypeScript               4 hrs 11 mins       ██████████████████░░░░░░░   72.20 % 
+Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+C++                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 50 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -141,7 +141,7 @@ Mac                      3 hrs 50 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Malien/Malien/master/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2023 00:59:31 UTC
+ Last Updated on 14/10/2023 00:59:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
