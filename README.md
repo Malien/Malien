@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C445%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C446%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,17 +123,16 @@ Sunday                   1308 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ██████████████████████░░░   88.05 % 
-YAML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               39 mins             █████████████████████████   98.75 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Neovim                   1 hr 21 mins        █████████████████████████   100.00 % 
+Neovim                   39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -141,7 +140,7 @@ Mac                      1 hr 21 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Malien/Malien/master/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 01:01:21 UTC
+ Last Updated on 22/10/2023 01:05:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
