@@ -80,13 +80,15 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C517%20hrs%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 630.4 kB Used in GitHub's Storage 
  > 
-> 🏆 354 Contributions in the Year 2023
+> 🏆 356 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,8 +96,48 @@ They are not that representative, as I use GitHub organisations to namespace pro
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 07/12/2023 01:04:58 UTC
+```text
+🌞 Morning                932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌆 Daytime                5960 commits        ███████████░░░░░░░░░░░░░░   43.19 % 
+🌃 Evening                5506 commits        ██████████░░░░░░░░░░░░░░░   39.90 % 
+🌙 Night                  1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1772 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Tuesday                  2499 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Wednesday                2155 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Thursday                 2158 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Friday                   1869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 1940 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Sunday                   1405 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+Haskell                  9 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.00 % 
+Elixir                   7 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+gitignore                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+
+🔥 Editors: 
+Neovim                   19 hrs 11 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      19 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/12/2023 01:05:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
