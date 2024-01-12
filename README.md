@@ -80,9 +80,9 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C594%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C597%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -123,21 +123,21 @@ Sunday                   1679 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               8 hrs 19 mins       ███████████████░░░░░░░░░░   60.57 % 
-JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-SCSS                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Swift                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+TypeScript               5 hrs 48 mins       ████████████████░░░░░░░░░   65.62 % 
+Swift                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+SCSS                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 43 mins      █████████████████████████   100.00 % 
+Neovim                   8 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/01/2024 01:07:55 UTC
+ Last Updated on 12/01/2024 01:08:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
