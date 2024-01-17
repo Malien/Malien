@@ -82,7 +82,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
@@ -137,7 +137,7 @@ Mac                      10 hrs 7 mins       ███████████�
 ```
 
 
- Last Updated on 16/01/2024 01:06:09 UTC
+ Last Updated on 17/01/2024 01:06:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
