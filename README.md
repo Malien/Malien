@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C618%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C620%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -88,11 +88,11 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 634.9 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2024
+> 🏆 57 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -123,21 +123,21 @@ Sunday                   1676 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               5 hrs 32 mins       ██████████████░░░░░░░░░░░   55.04 % 
-Rust                     2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Elixir                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Swift                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-SCSS                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+TypeScript               5 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.67 % 
+Rust                     3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+Elixir                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+GraphQL                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Swift                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   11 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/01/2024 01:05:23 UTC
+ Last Updated on 29/01/2024 01:02:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
