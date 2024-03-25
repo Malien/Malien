@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C682%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C683%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,10 +123,10 @@ Sunday                   1794 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               2 hrs 24 mins       █████████████░░░░░░░░░░░░   53.81 % 
-Rust                     1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   35.42 % 
-Elixir                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.68 % 
+Rust                     1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   36.56 % 
+Elixir                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
@@ -137,7 +137,7 @@ Mac                      4 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 24/03/2024 01:21:53 UTC
+ Last Updated on 25/03/2024 01:18:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
