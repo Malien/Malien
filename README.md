@@ -80,8 +80,6 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C705%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -98,8 +96,8 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 ```text
 🌞 Morning                1252 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-🌆 Daytime                8460 commits        ███████████░░░░░░░░░░░░░░   44.89 % 
-🌃 Evening                7460 commits        ██████████░░░░░░░░░░░░░░░   39.59 % 
+🌆 Daytime                8461 commits        ███████████░░░░░░░░░░░░░░   44.90 % 
+🌃 Evening                7460 commits        ██████████░░░░░░░░░░░░░░░   39.58 % 
 🌙 Night                  1673 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -107,10 +105,10 @@ They are not that representative, as I use GitHub organisations to namespace pro
 ```text
 Monday                   2324 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 Tuesday                  3451 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Wednesday                2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Wednesday                2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 Thursday                 2997 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 Friday                   2762 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Saturday                 2529 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Saturday                 2530 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 Sunday                   1794 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
@@ -135,7 +133,7 @@ Mac                      12 hrs 29 mins      ███████████�
 ```
 
 
- Last Updated on 13/04/2024 01:08:24 UTC
+ Last Updated on 14/04/2024 01:40:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
