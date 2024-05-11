@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C752%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,21 +123,21 @@ Sunday                   1794 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               6 hrs 33 mins       ██████████████████░░░░░░░   73.90 % 
-JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Nginx configuration file 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Swift                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+TypeScript               8 hrs 34 mins       ███████████████████░░░░░░   76.92 % 
+JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Swift                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 52 mins       █████████████████████████   100.00 % 
+Neovim                   11 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2024 01:23:08 UTC
+ Last Updated on 11/05/2024 01:23:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
