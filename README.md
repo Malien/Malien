@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C774%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C774%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -88,7 +88,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 636.0 kB Used in GitHub's Storage 
  > 
-> 🏆 307 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,19 +123,21 @@ Sunday                   1805 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Swift                    44 mins             ████████████████████████░   96.91 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+TypeScript               2 hrs 54 mins       █████████████████████░░░░   85.90 % 
+Swift                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Neovim                   46 mins             █████████████████████████   100.00 % 
+Neovim                   3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2024 01:26:22 UTC
+ Last Updated on 04/06/2024 01:27:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
