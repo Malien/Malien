@@ -80,6 +80,8 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C783%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
@@ -121,9 +123,9 @@ Sunday                   1811 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               57 mins             ██████████░░░░░░░░░░░░░░░   40.19 % 
-JavaScript               49 mins             █████████░░░░░░░░░░░░░░░░   34.98 % 
-YAML                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               57 mins             ██████████░░░░░░░░░░░░░░░   40.20 % 
+JavaScript               49 mins             █████████░░░░░░░░░░░░░░░░   35.00 % 
+YAML                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
@@ -135,7 +137,7 @@ Mac                      2 hrs 22 mins       ███████████�
 ```
 
 
- Last Updated on 16/06/2024 01:31:47 UTC
+ Last Updated on 17/06/2024 01:29:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
