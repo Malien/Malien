@@ -80,13 +80,15 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C848%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C851%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 636.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,21 +123,21 @@ Sunday                   1722 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               8 hrs 17 mins       ███████████████████████░░   90.19 % 
-Elixir                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+TypeScript               12 hrs 10 mins      ██████████████████████░░░   86.27 % 
+YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Elixir                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+SCSS                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 11 mins       █████████████████████████   100.00 % 
+Neovim                   14 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/08/2024 01:32:54 UTC
+ Last Updated on 03/08/2024 01:31:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
