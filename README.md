@@ -80,13 +80,13 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C905%20hrs%205%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 636.1 kB Used in GitHub's Storage 
- > 
-> 🏆 410 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,8 +94,49 @@ They are not that representative, as I use GitHub organisations to namespace pro
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 09/09/2024 01:37:07 UTC
+```text
+🌞 Morning                1264 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌆 Daytime                8659 commits        ███████████░░░░░░░░░░░░░░   45.16 % 
+🌃 Evening                7543 commits        ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌙 Night                  1706 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Tuesday                  3483 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Wednesday                3062 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Thursday                 3049 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Friday                   2824 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Saturday                 2607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Sunday                   1810 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+Java                     3 hrs 24 mins       ███████████████░░░░░░░░░░   61.19 % 
+JavaScript               1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Java Properties          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+🔥 Editors: 
+IntelliJ IDEA            3 hrs 50 mins       █████████████████░░░░░░░░   69.06 % 
+Neovim                   1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.94 % 
+
+💻 Operating System: 
+Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 10/09/2024 01:37:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
