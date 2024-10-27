@@ -80,13 +80,15 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C955%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C958%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 636.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 431 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -135,7 +137,7 @@ Mac                      11 hrs 24 mins      ███████████�
 ```
 
 
- Last Updated on 26/10/2024 01:38:39 UTC
+ Last Updated on 27/10/2024 01:46:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
