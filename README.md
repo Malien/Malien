@@ -80,13 +80,13 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C975%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 636.9 kB Used in GitHub's Storage 
- > 
-> 🏆 456 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,21 +121,21 @@ Sunday                   1540 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Swift                    4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
-HTML                     3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-TypeScript               2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Elixir                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Swift                    6 hrs 9 mins        █████████████░░░░░░░░░░░░   53.25 % 
+HTML                     2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Elixir                   1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Git                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 4 mins       █████████████████████████   100.00 % 
+Neovim                   11 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/11/2024 01:43:04 UTC
+ Last Updated on 05/11/2024 01:41:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
