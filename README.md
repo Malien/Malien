@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C011%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C013%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 637.4 kB Used in GitHub's Storage 
  > 
-> 🏆 471 Contributions in the Year 2024
+> 🏆 473 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1104 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+🌞 Morning                1105 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 🌆 Daytime                7215 commits        ███████████░░░░░░░░░░░░░░   44.68 % 
 🌃 Evening                6314 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
 🌙 Night                  1514 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
@@ -107,7 +107,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Monday                   2010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 Tuesday                  2971 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 Wednesday                2541 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 Thursday                 2574 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
@@ -123,21 +123,21 @@ Sunday                   1550 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-JavaScript               3 hrs 47 mins       ██████████████░░░░░░░░░░░   56.89 % 
-TypeScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Haskell                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+JavaScript               3 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
+Haskell                  2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 39 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/12/2024 01:52:58 UTC
+ Last Updated on 03/12/2024 01:52:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
