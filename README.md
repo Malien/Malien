@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C020%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C021%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -88,7 +88,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 637.4 kB Used in GitHub's Storage 
  > 
-> 🏆 483 Contributions in the Year 2024
+> 🏆 485 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,9 +99,9 @@ They are not that representative, as I use GitHub organisations to namespace pro
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-🌆 Daytime                7222 commits        ███████████░░░░░░░░░░░░░░   44.70 % 
-🌃 Evening                6314 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
+🌞 Morning                1109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+🌆 Daytime                7223 commits        ███████████░░░░░░░░░░░░░░   44.70 % 
+🌃 Evening                6314 commits        ██████████░░░░░░░░░░░░░░░   39.07 % 
 🌙 Night                  1514 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -109,9 +109,9 @@ They are not that representative, as I use GitHub organisations to namespace pro
 ```text
 Monday                   2010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 Tuesday                  2975 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Wednesday                2546 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Thursday                 2575 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Friday                   2309 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                2546 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Thursday                 2575 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Friday                   2311 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Saturday                 2193 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 Sunday                   1550 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
@@ -137,7 +137,7 @@ Mac                      15 hrs 12 mins      ███████████�
 ```
 
 
- Last Updated on 06/12/2024 01:47:24 UTC
+ Last Updated on 07/12/2024 01:50:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
