@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C125%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C126%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,21 +123,21 @@ Sunday                   1777 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               16 hrs 39 mins      ██████████████████░░░░░░░   71.64 % 
-HTML                     2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Elixir                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Gettext Catalog          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               11 hrs 5 mins       ████████████████░░░░░░░░░   64.32 % 
+HTML                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Elixir                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Gettext Catalog          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 15 mins      █████████████████████████   100.00 % 
+Neovim                   17 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/01/2025 01:53:23 UTC
+ Last Updated on 19/01/2025 02:00:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
