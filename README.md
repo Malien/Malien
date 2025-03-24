@@ -82,11 +82,13 @@ They are not that representative, as I use GitHub organisations to namespace pro
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C238%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 681.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 170 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -131,7 +133,7 @@ Mac                      10 mins             ███████████�
 ```
 
 
- Last Updated on 23/03/2025 02:08:03 UTC
+ Last Updated on 24/03/2025 02:06:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
