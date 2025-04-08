@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C260%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C263%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,11 +88,9 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 684.2 kB Used in GitHub's Storage 
  > 
-> 🏆 204 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -123,21 +121,21 @@ Sunday                   1763 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               7 hrs 3 mins        ███████████████░░░░░░░░░░   59.85 % 
-HTML                     2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-SCSS                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Swift                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               10 hrs 38 mins      █████████████████████░░░░   84.61 % 
+SCSS                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Swift                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 47 mins      █████████████████████████   100.00 % 
+Neovim                   12 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2025 02:08:19 UTC
+ Last Updated on 08/04/2025 02:06:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
