@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C280%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C280%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 684.3 kB Used in GitHub's Storage 
  > 
-> 🏆 216 Contributions in the Year 2025
+> 🏆 221 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,48 +96,8 @@ They are not that representative, as I use GitHub organisations to namespace pro
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1383 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-🌆 Daytime                9582 commits        ███████████░░░░░░░░░░░░░░   45.58 % 
-🌃 Evening                8240 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
-🌙 Night                  1816 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2537 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  3860 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Wednesday                3329 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Thursday                 3354 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Friday                   3117 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 2860 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Sunday                   1964 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-TypeScript               1 hr 19 mins        ███████████████████░░░░░░   76.34 % 
-Bash                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Swift                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-🔥 Editors: 
-Neovim                   1 hr 43 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/04/2025 02:15:37 UTC
+ Last Updated on 23/04/2025 02:14:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
