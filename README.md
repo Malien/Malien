@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C280%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C283%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 
 > 📦 684.3 kB Used in GitHub's Storage 
  > 
-> 🏆 221 Contributions in the Year 2025
+> 🏆 229 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,8 +96,48 @@ They are not that representative, as I use GitHub organisations to namespace pro
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/04/2025 02:14:18 UTC
+```text
+🌞 Morning                1383 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+🌆 Daytime                9590 commits        ███████████░░░░░░░░░░░░░░   45.59 % 
+🌃 Evening                8247 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌙 Night                  1816 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2540 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Tuesday                  3864 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Wednesday                3335 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Thursday                 3354 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   3119 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 2860 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Sunday                   1964 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+HTML                     1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   36.01 % 
+TypeScript               1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   35.66 % 
+SCSS                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Swift                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+
+🔥 Editors: 
+Neovim                   5 hrs 20 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/04/2025 02:12:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
