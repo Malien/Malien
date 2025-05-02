@@ -80,15 +80,15 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C295%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C299%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 684.4 kB Used in GitHub's Storage 
+> 📦 684.9 kB Used in GitHub's Storage 
  > 
-> 🏆 268 Contributions in the Year 2025
+> 🏆 271 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,48 +96,8 @@ They are not that representative, as I use GitHub organisations to namespace pro
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1383 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-🌆 Daytime                9635 commits        ███████████░░░░░░░░░░░░░░   45.67 % 
-🌃 Evening                8262 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌙 Night                  1816 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2546 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  3865 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Wednesday                3337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Thursday                 3390 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Friday                   3134 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Saturday                 2860 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Sunday                   1964 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-TypeScript               7 hrs 48 mins       ██████████████░░░░░░░░░░░   57.88 % 
-HTML                     2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Gettext Catalog          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-
-🔥 Editors: 
-Neovim                   13 hrs 29 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      13 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/05/2025 02:28:53 UTC
+ Last Updated on 02/05/2025 02:12:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
