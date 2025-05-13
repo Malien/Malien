@@ -80,7 +80,7 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C310%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C311%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,48 +96,8 @@ They are not that representative, as I use GitHub organisations to namespace pro
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1384 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-🌆 Daytime                9643 commits        ███████████░░░░░░░░░░░░░░   45.67 % 
-🌃 Evening                8270 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌙 Night                  1819 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Tuesday                  3873 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Wednesday                3340 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Thursday                 3394 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Friday                   3134 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Saturday                 2860 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Sunday                   1965 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-TypeScript               7 hrs 21 mins       █████████████████░░░░░░░░   68.11 % 
-HTML                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Gettext Catalog          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-
-🔥 Editors: 
-Neovim                   10 hrs 48 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      10 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 12/05/2025 02:28:58 UTC
+ Last Updated on 13/05/2025 02:23:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
