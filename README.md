@@ -80,13 +80,15 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C341%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 685.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 310 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,20 +123,18 @@ Sunday                   1876 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Haskell                  2 hrs 55 mins       ████████████████░░░░░░░░░   63.68 % 
-TypeScript               1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.23 % 
-conf                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-fugitiveblame            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Haskell                  2 hrs 55 mins       █████████████████████████   99.51 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 35 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2025 02:25:54 UTC
+ Last Updated on 21/06/2025 02:24:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
