@@ -80,8 +80,6 @@ They are not that representative, as I use GitHub organisations to namespace pro
 [![Malien's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9342577&layout=compact)](https://stackoverflow.com/users/9342577/link0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -133,7 +131,7 @@ Mac                      0 secs              ███████████�
 ```
 
 
- Last Updated on 30/06/2025 02:34:05 UTC
+ Last Updated on 01/07/2025 02:39:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
